@@ -1,4 +1,6 @@
 # import the necessary packages
+import sys
+sys.path.append("/media/akshay/New Volume/iiit_subjects/sem2/computer_vision")
 from pyimagesearch.utils.ranked import rank5_accuracy
 import argparse
 import pickle
